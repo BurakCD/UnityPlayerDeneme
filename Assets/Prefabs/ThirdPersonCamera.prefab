@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 4218892721396517269}
   - component: {fileID: 4218892721396517268}
   m_Layer: 0
-  m_Name: base
+  m_Name: ThirdPersonCamera
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
